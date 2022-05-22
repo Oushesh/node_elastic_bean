@@ -1,0 +1,23 @@
+{
+  "name": "node_elastic_bean",
+  "version": "1.0.0",
+  "description": "\"# node_elastic_bean\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oushesh/node_elastic_bean.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oushesh/node_elastic_bean/issues"
+  },
+  "homepage": "https://github.com/Oushesh/node_elastic_bean#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
