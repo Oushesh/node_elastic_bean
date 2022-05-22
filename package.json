@@ -2,7 +2,7 @@
   "name": "node_elastic_bean",
   "version": "1.0.0",
   "description": "\"# node_elastic_bean\"",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
