@@ -6,5 +6,6 @@ app.get("/",function(req,res)
     res.send("It worked");
 })
 
-app.listen(process.env.PORT || 3000);
+const port = 8501
+app.listen(process.env.PORT || 8501);
 module.exports = app;
